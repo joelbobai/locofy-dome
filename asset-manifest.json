@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/locofy-dome/static/css/main.31c8443f.css",
+    "main.js": "/locofy-dome/static/js/main.49c0fefc.js",
+    "index.html": "/locofy-dome/index.html",
+    "main.31c8443f.css.map": "/locofy-dome/static/css/main.31c8443f.css.map",
+    "main.49c0fefc.js.map": "/locofy-dome/static/js/main.49c0fefc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c8443f.css",
+    "static/js/main.49c0fefc.js"
+  ]
+}
